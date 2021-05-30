@@ -78,3 +78,188 @@ Received Import Request.
 Start importing Assets/Material using Guid(37c9044df0b9d42ae9c5cf3318a7a8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d9630a9ebc35dc1cae4ab6b08940f55') in 0.004783 seconds
   Import took 0.007287 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 98.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.288 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Shader 'Universal Render Pipeline/Simple Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'AddPassShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' not found
+Shader 'Universal Render Pipeline/Terrain/Lit': dependency 'BaseMapGenShader' shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Basemap Gen)' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2429 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.4 MB.
+System memory in use after: 177.0 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 3.980611 ms (FindLiveObjects: 0.286626 ms CreateObjectMapping: 0.099930 ms MarkObjects: 1.531179 ms  DeleteObjects: 2.061641 ms)
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 60 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 134.9 MB.
+System memory in use after: 131.5 MB.
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 2847.
+Total: 5.628447 ms (FindLiveObjects: 0.339102 ms CreateObjectMapping: 0.138479 ms MarkObjects: 2.151410 ms  DeleteObjects: 2.997792 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2332.204121 seconds.
+  path: Assets/New Shader Graph.shadergraph
+  artifactKey: Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Shader Graph.shadergraph using Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17be8c174dedb2614987e3ec7cf4ebb') in 0.772265 seconds
+  Import took 0.775786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070467 seconds.
+  path: Assets/New Shader Graph.shadergraph
+  artifactKey: Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Shader Graph.shadergraph using Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17be8c174dedb2614987e3ec7cf4ebb') in 0.002844 seconds
+  Import took 0.006518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.550834 seconds.
+  path: Assets/Glitch1Shader.shadergraph
+  artifactKey: Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch1Shader.shadergraph using Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22598f095060f21834f976e9c60c383') in 0.002814 seconds
+  Import took 0.006700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.343470 seconds.
+  path: Assets/New Render Texture.renderTexture
+  artifactKey: Guid(5ca5ef964efd242e8b785de41b5aa7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Render Texture.renderTexture using Guid(5ca5ef964efd242e8b785de41b5aa7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef199b44c566d25db851eacb46e3843') in 0.436293 seconds
+  Import took 0.440295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 498.048569 seconds.
+  path: Assets/Glitch1Texture.renderTexture
+  artifactKey: Guid(5ca5ef964efd242e8b785de41b5aa7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch1Texture.renderTexture using Guid(5ca5ef964efd242e8b785de41b5aa7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd5817f75e86877a00ce56f7b7e8da1') in 0.009337 seconds
+  Import took 0.013350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.227194 seconds.
+  path: Assets/Glitch1Shader.shadergraph
+  artifactKey: Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch1Shader.shadergraph using Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584125ccf92147b63927e3594e8a4f9f') in 0.007217 seconds
+  Import took 0.011562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.622275 seconds.
+  path: Assets/Glitch1Shader.shadergraph
+  artifactKey: Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch1Shader.shadergraph using Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea45801a4c4de76f667b729b99a82f9') in 0.005438 seconds
+  Import took 0.009788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.684643 seconds.
+  path: Assets/Glitch1Shader.shadergraph
+  artifactKey: Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch1Shader.shadergraph using Guid(8ebaef25035954536aea062447963743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc36691f447a2c5d2dfb88d90c1cbc32') in 0.006257 seconds
+  Import took 0.010374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2690.803835 seconds.
+  path: Assets/Glitch2Shader.shadergraph
+  artifactKey: Guid(f6efc3914db2c48488e5202b2569d8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch2Shader.shadergraph using Guid(f6efc3914db2c48488e5202b2569d8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '911f4ca6af435b2109ae3f40e5b70c29') in 0.006638 seconds
+  Import took 0.010925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 907.190373 seconds.
+  path: Assets/Glitch2Texture.renderTexture
+  artifactKey: Guid(005d809500c5a4697819b62170ddbce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch2Texture.renderTexture using Guid(005d809500c5a4697819b62170ddbce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef86066d2dfab32f378b48f22a21e1d2') in 0.009827 seconds
+  Import took 0.013833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.985492 seconds.
+  path: Assets/Glitch2Shader.shadergraph
+  artifactKey: Guid(f6efc3914db2c48488e5202b2569d8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Glitch2Shader.shadergraph using Guid(f6efc3914db2c48488e5202b2569d8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e3ae06deec798bc5a4166e453ac279') in 0.005373 seconds
+  Import took 0.009686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000914 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2477 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 198.6 MB.
+System memory in use after: 196.2 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2923.
+Total: 4.356927 ms (FindLiveObjects: 0.392116 ms CreateObjectMapping: 0.167370 ms MarkObjects: 1.947542 ms  DeleteObjects: 1.847394 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2409 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.9 MB.
+System memory in use after: 193.4 MB.
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2925.
+Total: 3.688730 ms (FindLiveObjects: 0.264808 ms CreateObjectMapping: 0.119290 ms MarkObjects: 1.554219 ms  DeleteObjects: 1.748793 ms)
+
